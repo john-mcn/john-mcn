@@ -1,8 +1,8 @@
-<p align="center">
-  <a href="https://github.com/john-mcn">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7e1cc9&fontSize=54&height=90&width=474&text=John%20McNally" alt="John McNally" />
-  </a>
-</p>
+<div align="center">
+ <a class="link" href="https://github.com/john-mcn/john-mcn/blob/main/header.svg">
+  <img class="image" src="header.svg" alt="John McNally">
+ </a>
+</div>
 
 I'm John McNally, a software developer currently studying MEng Software Engineering and shipping real projects during my free time.
 
