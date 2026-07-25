@@ -1,7 +1,5 @@
 <div align="center">
- <a class="link" href="https://github.com/john-mcn/john-mcn/blob/main/header.svg">
-  <img class="image" src="header.svg" alt="John McNally">
- </a>
+ <img class="image" src="https://github.com/john-mcn/john-mcn/blob/main/header.svg" alt="John McNally">
 </div>
 
 I'm John McNally, a software developer currently studying MEng Software Engineering and shipping real projects during my free time.
