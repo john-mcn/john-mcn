@@ -2,27 +2,19 @@
  <foreignObject width="100%" height="100%">
   <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .wrapper {
-          height: 100vh;
-          display: grid;
-          place-items: center;
-        }
-
         .text {
           white-space: nowrap;
           overflow: hidden;
           font-family: monospace;
-          font-size: 4em;
+          font-size: 5em;
           background: linear-gradient(90deg,rgba(114, 42, 155, 1) 0%, rgba(113, 87, 199, 1) 50%, rgba(83, 101, 237, 1) 100%);
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
         }
       </style>
-      <div class="wrapper">
-        <div class="text">
-          John McNally
-        </div>
-      </div>
+       <div class="text">
+         John McNally
+       </div>
   </div>
  </foreignObject>
 </svg>
