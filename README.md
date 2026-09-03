@@ -4,6 +4,8 @@
 
 I'm John McNally, a software developer currently studying MEng Software Engineering and shipping real projects during my free time.
 
+[My Portfolio](https://johnm-portfolio.netlify.app/)
+
 ### Contact
 <p align="left">
   <a href="https://johnm-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -50,11 +52,11 @@ I'm John McNally, a software developer currently studying MEng Software Engineer
 
 ### GitHub Stats
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=john-mcn&bg_color=00000000&color=7e1cc9&line=7e1cc9&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=john-mcn&layout=compact&theme=dracula&title_color=7e1cc9&icon_color=00000000&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 <!--
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=john-mcn&layout=compact&theme=dracula&title_color=7e1cc9&icon_color=00000000&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=john-mcn&bg_color=00000000&color=7e1cc9&line=7e1cc9&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 -->
