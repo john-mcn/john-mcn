@@ -53,8 +53,6 @@ I'm John McNally, a software developer currently studying MEng Software Engineer
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=john-mcn&bg_color=00000000&color=7e1cc9&line=7e1cc9&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=john-mcn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <!--
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=john-mcn&layout=compact&theme=dracula&title_color=7e1cc9&icon_color=00000000&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
